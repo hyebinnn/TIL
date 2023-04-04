@@ -14,3 +14,5 @@ Today I Learned 📝
 
 ## Spring
 [회원 서비스 개발](https://github.com/hyebinnn/TIL/blob/main/Spring/03.31_%ED%9A%8C%EC%9B%90%EC%84%9C%EB%B9%84%EC%8A%A4_%EA%B0%9C%EB%B0%9C.md)
+[회원 서비스 테스트](https://github.com/hyebinnn/TIL/blob/main/Spring/04.03_%ED%9A%8C%EC%9B%90%EC%84%9C%EB%B9%84%EC%8A%A4_%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
+[컴포넌트 자동 의존관계](https://github.com/hyebinnn/TIL/blob/main/Spring/04.04_%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8_%EC%9E%90%EB%8F%99%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84.md)
