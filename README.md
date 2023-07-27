@@ -31,12 +31,12 @@ Today I Learned 📝
 
 ## Backend
 #### Part1_MVC_프레임워크
-[톰캣](https://github.com/hyebinnn/TIL/blob/main/Java/04.26_Tomcat.md)<br>
+[톰캣](https://github.com/hyebinnn/TIL/blob/main/Backend/Part1_MVC_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/04.26_Tomcat.md)<br>
 [웹프로젝트 환경구성](https://github.com/hyebinnn/TIL/blob/main/Backend/Part1_MVC_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/04.28_%EC%9B%B9%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%ED%99%98%EA%B2%BD%EA%B5%AC%EC%84%B1.md)<br>
-[도커 Docker](https://github.com/hyebinnn/TIL/blob/main/Java/07.16_Docker.md)<br>
+[도커 Docker](https://github.com/hyebinnn/TIL/blob/main/Backend/Part1_MVC_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/07.16_Docker.md)<br>
 [테스트 코드 TDD](https://github.com/hyebinnn/TIL/blob/main/Backend/Part1_MVC_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/07.19_%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C.md)<br>
 
 ---
 
 [초보 백엔드 개발자 로드맵](https://github.com/hyebinnn/TIL/blob/main/Backend/07.24_%EC%B4%88%EB%B3%B4_%EB%B0%B1%EC%97%94%EB%93%9C%EA%B0%9C%EB%B0%9C%EC%9E%90_%EB%A1%9C%EB%93%9C%EB%A7%B5.md)<br>
-[JavaScript](https://github.com/hyebinnn/TIL/blob/main/Java/07.25_JavaScript.md)<br>
+[JavaScript](https://github.com/hyebinnn/TIL/blob/main/Backend/Part1_MVC_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/07.25_JavaScript.md)<br>
